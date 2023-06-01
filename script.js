@@ -23,4 +23,4 @@ let displayTimer = document.querySelector('#timer')
 displayTimer.innerHTML = hours + ":" + minutes + ":" + seconds;
 }
 
-// window.setInterval(stopWatch , 1000);
+window.setInterval(stopWatch , 1000);
